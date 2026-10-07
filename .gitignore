@@ -1,3 +1,5 @@
 env/*
 env
 exports
+__pycache__
+__pycache__/*
